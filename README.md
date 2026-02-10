@@ -11,6 +11,13 @@ The work focuses on:
 - Workflow documentation suitable for library reuse
 
 
+## Context
+
+This responsitory was developed as part of research conducted at the University of Michigan Digital Preservation Lab, with the goal of producing reusable, documented workflows suitable for library and archival environments.
+
+The work reflects my individual research, testing, and documentation; and is intended both for integration into institutional repositories and for public reference.
+
+
 ## Access Formats
 While PDF/A is primarily a preservation format, this work explicitly evaluates conversion outputs as *access formats*, with particular attention to:
 
@@ -19,9 +26,3 @@ While PDF/A is primarily a preservation format, this work explicitly evaluates c
 - Metadata availability for discovery and resuse
 - Tradeoffs between preservation complicance and practical access
 
-
-## Context
-
-This responsitory was developed as part of research conducted at the University of Michigan Digital PReservation Lab, with the goal of producing reusable, documented workflows suitable for library and archival environments.
-
-The work reflects my individual research, testing, and documentation; and is intended both for integration into institutional repositories and for public reference.
