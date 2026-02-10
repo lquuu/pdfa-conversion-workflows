@@ -1,4 +1,4 @@
-# pdfa-conversion-workflows
+#PDF/A Conversion Workflows
 This repository documents the evaluation of document conversion workflows from DOC/DOCX to PDF/A-2u and PDF/A-2b for digital preservation and access contexts, with a focus on text extractability, metadata preservation, and batch processing behavior.
 
 The work focuses on:
