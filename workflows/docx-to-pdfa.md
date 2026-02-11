@@ -80,7 +80,7 @@ This workflow serves as a baseline conversion method for comparison against PDF/
 
 Based on batch testing, the following behaviors have been observed when using "Create PDF" for large or mixed document sets:
 
-- Increased likelihood of application crashes when processing mixed file types or shortcut (`.lnk`) files
+- Increased likelihood of application crashes when processing mixed file types (e.g., `.png`) or shortcut (i.e., `.lnk`) files
 - Reduced stability when processing deeply nested folder structures
 - Limited transparency into batch-level failures without manual inspection
 

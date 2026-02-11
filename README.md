@@ -40,16 +40,16 @@ While PDF/A is primarily a preservation format, this work explicitly evaluates c
 
 Readers may wish to begin with the following workflows, depending on their goals:
 
-- **Baseline conversion behavior**
+- **Baseline Conversion Behavior**
   - `workflows/docx-to-pdfa.md`
 
-- **PDF/A-2u conversion using Adobe Guided Actions**
+- **PDF/A-2u Conversion Using Adobe Guided Actions**
   - `workflows/docx-to-pdfa2u-custom-action.md`
 
-- **End-to-end workflow with metadata extraction and comparison**
+- **End-to-End Workflow with Metadata Extraction & Comparison**
   - `workflows/docx-to-pdfa2u-with-metadata.md`
 
-- **Detailed metadata extraction and comparison method**
+- **Detailed Metadata Extraction & Comparison Method**
   - `metadata/metadata-comparison-method.md`
 
 
