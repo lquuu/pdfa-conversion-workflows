@@ -147,7 +147,7 @@ Parameter definitions:
 - `workDir`: output directory for extracted metadata and comparison results
 - `pythonScriptPath`: path to the Python comparison script
 
-<img src="../screenshots/powershell/10-powershell-command.png"
+<img src="screenshots/powershell/10-powershell-command.png"
      alt="PowerShell window showing run_pairs.ps1 command with directory parameters"
      width="700">
 
@@ -174,7 +174,7 @@ The Python script (`compare_single_row_csvs.py`) performs the following steps:
 
 A successful metadata extraction run will output an `ALL DONE` message.
 
-<img src="../screenshots/powershell/11-ps-completed.png"
+<img src="screenshots/powershell/11-ps-completed.png"
      alt="PowerShell window displaying ALL DONE message after metadata extraction"
      width="700">
 
