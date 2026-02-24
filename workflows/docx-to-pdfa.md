@@ -39,7 +39,7 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 4. Select **Add files**
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/2-add-files-or-folders.png)
+![](..screenshots/adobe-ui/create-regular-pdf-a/2-add-files-or-folder.png)
 
 
 5. Select a folder or specific DOC/DOCX files in the pop-up window and click **Open**
