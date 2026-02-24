@@ -23,7 +23,7 @@ Detailed, tool-specific steps are documented in the linked workflows and method 
 ## 3. Preconditions
 
 - Adobe Acrobat is installed and licensed
-- An Adobe Guided Action named **Save as PDF/A-2u** exists and is configured to save outputs to a local folder
+- An Adobe Guided Action named **Save as PDF/A-2u** exists and is configured to save outputs to a local folder (see `workflows/docx-to-pdfa2u.md` to convert your DOC/DOCX files to PDF/A-2u)
 - ExifTool is installed and available via the system PATH
 - PowerShell is available (Windows)
 - Python 3 is installed
@@ -54,7 +54,7 @@ Folder_01/
 ### 5.1 - Step 1: Convert DOC/DOCX to PDF/A-2u (Adobe Guided Actions)
 
 Follow the detailed Adobe conversion workflow:
-- `docx-to-pdfa2u-custom-action.md`
+- `workflows/docx-to-pdfa2u.md`
 
 Expected outcome:
 - PDF/A-2u files are created in the designated output folder (`pdfa_2u/`).

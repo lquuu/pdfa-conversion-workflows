@@ -23,22 +23,81 @@ The workflow is designed for digital preservation and access contexts where Unic
 
 1. Open Adobe Acrobat
 2. Select **See all tools**
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/1-see-all-tools.png"
+     alt="Adobe Acrobat interface showing the See all tools option"
+     width="700">
+
+
 3. Under **Prepare**, open **Use Guided Actions**
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/2-prepare-use-guided-actions.png"
+     alt="Prepare tools panel showing Use Guided Actions"
+     width="700">
+
+
 4. Locate the action **Save as PDF/A-2u**
 5. Select the **…** menu and choose **Edit**
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/3-edit-save-as-pdfa.png"
+     alt="Guided Actions panel showing Save as PDF/A-2u with Edit option selected"
+     width="700">
+
+
 6. In the right-hand column, locate **Save to Local Folder**
 7. Select **Save to Local Folder** from the dropdown
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/4-save-to-local-folder.png"
+     alt="Guided Action edit panel showing Save to Local Folder option"
+     width="700">
+
+
 8. Choose the destination folder for converted PDF/A-2u files
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/5-select-local-folder.png"
+     alt="Folder selection dialog for PDF/A-2u output location"
+     width="700">
+
 9. Click **OK**, then **Save**
 
 ---
 
 ### 3.2 Run the Batch Conversion
 
-10. Select **Add files…** or **Add folder…**
-11. Choose the DOC/DOCX files to convert
-12. Click **Open**
+10. Select the **Save as PDF/A-2u** action.
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/6-save-as-a2u.png"
+     alt="Guided Actions list showing Save as PDF/A-2u selected"
+     width="700">
+
+
+11. Select **Add files…** or **Add folder…**
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/7-a2u-add-files-or-add-folder.png"
+     alt="Guided Action dialog showing Add files and Add folder options"
+     width="700">
+
+
+11. Choose the DOC/DOCX files or folder to convert
+12. For DOC/DOCX files, click **Open**. For folders, click **OK**
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/8a-files-ok.png"
+     alt="File selection dialog confirming selected DOC/DOCX files"
+     width="700">
+
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/8b-folder-ok.png"
+     alt="Folder selection dialog confirming selected folder for conversion"
+     width="700">
+
+
 13. Select **Start** to begin the conversion
+
+<img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/9-start.png"
+     alt="Guided Action dialog showing Start button before conversion"
+     width="700">
+
+
 14. When complete, select **Done**
 *Optional: Selecting **Full report** generates an HTML summary of the batch process.*
 
@@ -55,5 +114,5 @@ The workflow is designed for digital preservation and access contexts where Unic
 
 For end-to-end workflows and post-conversion analysis, see:
 
-- `docx-to-pdfa2u-with-metadata.md` — full DOCX → PDF/A-2u workflow with metadata comparison
+- `docx-to-pdfa2u-with-metadata.md` — full DOCX → PDF/A-2u (end-to-end) workflow with metadata comparison
 - `../metadata/metadata-comparison-method.md` — detailed metadata extraction and comparison method
