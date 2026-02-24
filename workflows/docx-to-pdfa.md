@@ -33,7 +33,7 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/1-create-multiple-pdf-files.png"
      alt="Adobe Acrobat Create multiple PDF files menu"
-     width="1200">
+     width="1000">
 
 
 ---
@@ -45,21 +45,21 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/2-add-files-or-folder.png"
      alt="Create multiple PDFs dialog with Add files option"
-     width="1200">
+     width="1000">
 
 
 5. Select a folder or specific DOC/DOCX files in the pop-up window and click **Open**
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/3-open-files.png"
      alt="File picker window showing selecting DOC/DOCX files and clicking Open"
-     width="1200">
+     width="1000">
 
 
 6. Click **OK**
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/4-multiple-pdf-files-OK.png"
      alt="Create multiple PDFs dialog showing selected files and OK button"
-     width="1200">
+     width="1000">
 
 
 ---
@@ -71,21 +71,21 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/5-browse-target-folder.png"
      alt="Target Folder setting showing Browse option to choose output folder"
-     width="1200">
+     width="1000">
 
 
 8. Under **File Naming**, select **Keep original file names**
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/6-keep-original-name.png"
      alt="File Naming setting showing Keep original file names selected"
-     width="1200">
+     width="1000">
 
 
 9. Ensure **Overwrite existing files** is unchecked. (Default is checked; and we typically need to uncheck it. However, you may choose to keep it checked due to specific needs.)
 
 <img src="../screenshots/adobe-ui/create-regular-pdf-a/7-uncheck-overwrite.png"
      alt="Option to overwrite existing files shown unchecked"
-     width="1200">
+     width="1000">
 
 
 ---
