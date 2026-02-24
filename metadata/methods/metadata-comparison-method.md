@@ -1,4 +1,4 @@
-# Metadata Extraction and Comparison Method
+# Metadata Extraction & Comparison Method
 
 ## Purpose
 
