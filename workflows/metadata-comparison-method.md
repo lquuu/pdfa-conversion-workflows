@@ -184,6 +184,7 @@ A successful metadata extraction run will output an `ALL DONE` message.
 
 The metadata comparison workflow produces the following outputs:
 
+```
 metadata/
 ├── originals_csv/
 │   └── <filename>_original.csv
@@ -191,6 +192,7 @@ metadata/
 │   └── <filename>_converted.csv
 └── results/
     └── <filename>_metadata_comparison.csv
+```
 
 Each comparison CSV contains:
 - Base filename
