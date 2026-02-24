@@ -55,7 +55,7 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 6. Click **OK**
 
-<img src="../screenshots/adobe-ui/create-regular-pdf-a/4-multiple-pdf-files-OK.png"
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/4-multiple-files-ok.png"
      alt="Create multiple PDFs dialog showing selected files and OK button"
      width="700">
 
