@@ -31,6 +31,10 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 ![](../screenshots/adobe-ui/create-regular-pdf-a/1-create-multiple-pdf-files.png)
 
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/1-create-multiple-pdf-files.png"
+     alt="Adobe Acrobat Create multiple PDF files menu"
+     width="1200">
+
 
 ---
 
@@ -39,17 +43,23 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 4. Select **Add files**
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/2-add-files-or-folder.png)
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/2-add-files-or-folder.png"
+     alt="Create multiple PDFs dialog with Add files option"
+     width="1200">
 
 
 5. Select a folder or specific DOC/DOCX files in the pop-up window and click **Open**
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/3-open-files.png) 
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/3-open-files.png"
+     alt="File picker window showing selecting DOC/DOCX files and clicking Open"
+     width="1200">
 
 
 6. Click **OK**
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/4-multiple-pdf-files-OK.png)
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/4-multiple-pdf-files-OK.png"
+     alt="Create multiple PDFs dialog showing selected files and OK button"
+     width="1200">
 
 
 ---
@@ -59,17 +69,23 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 7. Under **Target Folder**, select **A Folder on My Computer**. Then click **Browse…** and select the destination folder for converted PDFs.
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/5-browse-target-folder.png)
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/5-browse-target-folder.png"
+     alt="Target Folder setting showing Browse option to choose output folder"
+     width="1200">
 
 
 8. Under **File Naming**, select **Keep original file names**
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/6-keep-original-name.png)
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/6-keep-original-name.png"
+     alt="File Naming setting showing Keep original file names selected"
+     width="1200">
 
 
 9. Ensure **Overwrite existing files** is unchecked. (Default is checked; and we typically need to uncheck it. However, you may choose to keep it checked due to specific needs.)
 
-![](../screenshots/adobe-ui/create-regular-pdf-a/7-uncheck-overwrite.png)
+<img src="../screenshots/adobe-ui/create-regular-pdf-a/7-uncheck-overwrite.png"
+     alt="Option to overwrite existing files shown unchecked"
+     width="1200">
 
 
 ---
