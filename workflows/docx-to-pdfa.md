@@ -38,8 +38,10 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 4. Select **Add files**
 ![](../screenshots/adobe-ui/create-regular-pdf-a/2-add-files-or-folders.png)
+
 5. Select a folder or specific DOC/DOCX files in the pop-up window and click **Open**
 ![](../screenshots/adobe-ui/create-regular-pdf-a/3-open-files.png) 
+
 6. Click **OK**
 ![](../screenshots/adobe-ui/create-regular-pdf-a/4-multiple-pdf-files-OK.png)
 
@@ -51,8 +53,10 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 7. Under **Target Folder**, select **A Folder on My Computer**. Then click **Browse…** and select the destination folder for converted PDFs.
 ![](../screenshots/adobe-ui/create-regular-pdf-a/5-browse-target-folder.png)
+
 8. Under **File Naming**, select **Keep original file names**
 ![](../screenshots/adobe-ui/create-regular-pdf-a/6-keep-original-name.png)
+
 9. Ensure **Overwrite existing files** is unchecked. (Default is checked; and we typically need to uncheck it. However, you may choose to keep it checked due to specific needs.)
 ![](../screenshots/adobe-ui/create-regular-pdf-a/7-uncheck-overwrite.png)
 
