@@ -8,7 +8,7 @@ Each sample includes:
 - Associated metadata extracted for comparison
 
 
---
+---
 
 
 ## 🎯 Purpose of the Samples
@@ -23,7 +23,7 @@ The sample set was designed to support evaluation of:
 By combining real archival documents with a comprehensive stress-test document, the samples enable both realistic and controlled testing scenarios.
 
 
---
+---
 
 
 ## 📄 Sample Descriptions
@@ -50,7 +50,7 @@ This sample represents authentic archival material and tests:
 - Formatting fidelity in older documents
 
 
---
+---
 
 
 ### Sample 2 — Traditional Chinese Document
@@ -76,7 +76,7 @@ This sample evaluates:
 - Metadata preservation for multilingual documents
 
 
---
+---
 
 
 ### Sample 3 — Stress-Test Document
@@ -110,7 +110,7 @@ This sample serves as a comprehensive robustness test to evaluate:
 - Accessibility and tagging behavior
 
 
---
+---
 
 
 ## 📑 Included File Types
@@ -126,7 +126,7 @@ Including both PDF/A variants allows for direct comparison between:
 - Preservation + accessibility (PDF/A-2u)
 
 
---
+---
 
 
 ## 🔬 Research Value
@@ -139,7 +139,7 @@ The combination of these samples supports meaningful analysis of:
 - Real-world batch processing scenarios
 
 
---
+---
 
 
 ## 📁 Folder Structure
@@ -160,7 +160,7 @@ This standardized structure ensures:
 - Reproducibility of results
 
 
---
+---
 
 
 ## 🌟 Final Note

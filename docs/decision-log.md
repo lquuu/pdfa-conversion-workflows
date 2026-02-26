@@ -7,7 +7,7 @@ This document records the rationale behind the key decisions made during the res
 This log supports reproducibility, institutional knowledge transfer, and long-term sustainability of the workflows documented in this repository.
 
 
---
+---
 
 
 ## Table of Contents
@@ -28,7 +28,7 @@ This log supports reproducibility, institutional knowledge transfer, and long-te
 14. [Emphasis on Reproducibility and Transparency](#14-emphasis-on-reproducibility-and-transparency)
 
 
---
+---
 
 
 ## 1. Choice of PDF/A as Target Format
@@ -48,7 +48,7 @@ In digital preservation contexts, PDF/A is widely accepted as a preferred format
 - Long-term readability
 
 
---
+---
 
 
 ## 2. Selection of PDF/A-2u and PDF/A-2b Variants
@@ -74,7 +74,7 @@ Evaluating both variants allows comparison between:
 This comparison supports informed decisions for institutions balancing preservation and access needs.
 
 
---
+---
 
 
 ## 3. Focus on Access-Oriented Evaluation
@@ -97,7 +97,7 @@ This reflects real-world usage in libraries and archives, where preservation and
 
 
 
---
+---
 
 
 ## 4. Selection of Adobe Acrobat as Primary Tool
@@ -119,7 +119,7 @@ Adobe Acrobat was selected because:
 Using a tool already available to many institutions increases the likelihood that the workflows will be adopted and reused.
 
 
---
+---
 
 
 ## 5. Use of Guided Actions for Batch Processing
@@ -142,7 +142,7 @@ Guided Actions allow:
 This approach aligns with institutional needs for efficiency and standardization.
 
 
---
+---
 
 
 ## 6. Inclusion of Cloud-Based Auto-Tagging
@@ -163,7 +163,7 @@ Accessibility is a critical component of modern digital preservation. Cloud-base
 This evaluation supports institutions seeking to align preservation workflows with accessibility standards.
 
 
---
+---
 
 
 ## 7. Emphasis on Metadata Preservation
@@ -184,7 +184,7 @@ Metadata is essential for:
 Evaluating metadata retention ensures that converted documents remain useful within digital collections and not just visually preserved.
 
 
---
+---
 
 
 ## 8. Development of Metadata Comparison Methods
@@ -205,7 +205,7 @@ Manual comparison of metadata is inefficient and error-prone. Automated comparis
 This supports evidence-based evaluation of conversion workflows.
 
 
---
+---
 
 
 ## 9. Selection of Sample Files
@@ -235,7 +235,7 @@ Use a combination of real archival documents and a synthetic stress-test documen
 This combination ensures realistic, robut, and comprehensive testing coverage.
 
 
---
+---
 
 
 ## 10. Inclusion of Accessibility Evaluation
@@ -252,7 +252,7 @@ Accessibility is a core component of digital access and equity. Including access
 This aligns with modern digital preservation principles, which emphasize both longevity and accessibility.
 
 
---
+---
 
 
 ## 11. Documentation of Setup and Environment
@@ -271,7 +271,7 @@ Without setup documentation, workflows cannot be reliably reproduced. Documentin
 - Long-term usability of the workflows
 
 
---
+---
 
 
 ## 12. Creation of Detailed Workflow Documentation
@@ -292,7 +292,7 @@ Detailed documentation supports:
 This ensures the work can function as both a research artifact and a practical guide.
 
 
---
+---
 
 
 ## 13. Separation of Repository Components
@@ -312,7 +312,7 @@ Clear organization improves:
 This structure supports both research and operational use.
 
 
---
+---
 
 
 ## 14. Emphasis on Reproducibility and Transparency
@@ -330,7 +330,7 @@ Digital preservation research must be verifiable and adaptable. By documenting m
 - Build upon the research
 
 
---
+---
 
 
 ## 🌟 Final Note

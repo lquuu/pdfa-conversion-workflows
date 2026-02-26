@@ -5,7 +5,7 @@
 This document describes how to configure the software environment used to develop and evaluate the PDF/A conversion workflows documented in this repository. The goal is to ensure that future researchers and practitioners can reproduce the workflows consistently and accurately.
 
 
---
+---
 
 
 ## 1. Required Software
@@ -25,7 +25,7 @@ Key Features Used:
 - Cloud-based auto-tagging for accessibility
 
 
---
+---
 
 
 ## 2. Adobe Acrobat Configuration
@@ -85,7 +85,7 @@ Batch processing is performed using Guided Actions in Adobe Acrobat.
 This allows multiple DOC/DOCX files to be converted to PDF/A-2u in a single workflow.
 
 
---
+---
 
 
 ## 3. Accessibility Checker Setup
@@ -105,7 +105,7 @@ Adobe Acrobat’s Accessibility Checker is used to evaluate the accessibility of
 This process also generates a detailed accessibility report for each document, located in the location you specified in **Step 3**.
 
 
---
+---
 
 
 ## 4. Metadata Extraction Environment
@@ -130,7 +130,7 @@ Includes:
 These scripts automate metadata comparison between original and converted files.
 
 
---
+---
 
 
 ## 5. File Organization Expectations
@@ -147,7 +147,7 @@ samples/
 Maintaining this structure ensures compatibility with scripts and documentation.
 
 
---
+---
 
 
 ## 6. Screenshots and Documentation
@@ -159,6 +159,10 @@ screenshots/
 ```
 
 These images support step-by-step instructions and help users visually verify settings.
+
+
+---
+
 
 ## 7. Environment Summary
 ## Environment Summary
@@ -173,7 +177,7 @@ These images support step-by-step instructions and help users visually verify se
 | Repository Structure | Supports reproducibility and organized workflow execution   |
 
 
---
+---
 
 
 8. Reproducibility Notes
