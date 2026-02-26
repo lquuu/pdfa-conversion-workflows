@@ -45,7 +45,7 @@ The workflow is designed for digital preservation and access contexts where Unic
 
 
 6. In the right-hand column, locate **Save to Local Folder**
-7. Select **Save to Local Folder** from the dropdown
+7. Click on **Save to Local Folder** and select **Save to Local Folder** from the dropdown
 
 <img src="../screenshots/adobe-ui/create-multiple-pdf-a2u/4-save-to-local-folder.png"
      alt="Guided Action edit panel showing Save to Local Folder option"

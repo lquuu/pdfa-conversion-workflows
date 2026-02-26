@@ -4,7 +4,7 @@
 
 This workflow describes a reproducible process for batch-converting DOC and DOCX files to PDF using Adobe Acrobat’s **Create PDF** tool.
 
-This workflow serves as a baseline conversion method for **comparison** against PDF/A-specific workflows (e.g., Guided Actions targeting PDF/A-2u), and is included to document observed behavior, stability, and limitations during batch processing.
+This workflow serves as a baseline conversion method for **comparison** against PDF/A-specific workflows (e.g., PDF/A-1b vs. Guided Actions targeting PDF/A-2u), and is included to document observed behavior, stability, and limitations during batch processing.
 
 
 ---
@@ -100,7 +100,7 @@ This workflow serves as a baseline conversion method for **comparison** against 
 
 ## 4. Outputs
 
-- Standard PDF/A files saved to the designated output folder
+- Standard PDF/A-1b files saved to the designated output folder
 - File naming preserved from original DOC/DOCX sources
 
 
