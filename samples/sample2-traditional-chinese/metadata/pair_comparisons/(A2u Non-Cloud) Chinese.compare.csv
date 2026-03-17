@@ -1,0 +1,120 @@
+BaseName,Tag,Original_Value,Converted_Value,Change_Status
+(A2u Non-Cloud) Chinese,ExifTool:ExifToolVersion,13.4,13.4,Unchanged
+(A2u Non-Cloud) Chinese,File:FileType,DOC,PDF,Modified
+(A2u Non-Cloud) Chinese,File:FileTypeExtension,doc,pdf,Modified
+(A2u Non-Cloud) Chinese,File:MIMEType,application/msword,application/pdf,Modified
+(A2u Non-Cloud) Chinese,FlashPix:AppVersion,12.0,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Author,Wang,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:CharCountWithSpaces,4367,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Characters,3723,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:CodePage,Windows Traditional Chinese (Taiwan),,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:CompObjUserType,Microsoft Office Word 97-2003 Document,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:CompObjUserTypeLen,39,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Company,,,Modified
+(A2u Non-Cloud) Chinese,FlashPix:CreateDate,2015:03:28 16:53:00,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:DocFlags,"1Table, ExtChar, Far east",,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:HeadingPairs,"Title, 1",,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:HyperlinksChanged,No,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Identification,Word 8.0,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Keywords,,,Modified
+(A2u Non-Cloud) Chinese,FlashPix:LanguageCode,English (US),,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:LastModifiedBy,Wang,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:LastPrinted,2015:04:10 16:03:00,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Lines,31,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:LinksUpToDate,No,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:ModifyDate,2015:04:22 04:21:00,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Pages,6,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Paragraphs,8,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:RevisionNumber,126,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:ScaleCrop,No,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Security,,,Modified
+(A2u Non-Cloud) Chinese,FlashPix:SharedDoc,No,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Software,Microsoft Office Word,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Subject,,,Modified
+(A2u Non-Cloud) Chinese,FlashPix:System,Windows,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Template,Normal,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Title,,,Modified
+(A2u Non-Cloud) Chinese,FlashPix:TitleOfParts,,,Modified
+(A2u Non-Cloud) Chinese,FlashPix:TotalEditTime,3.5 hours,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Word97,No,,Removed from original
+(A2u Non-Cloud) Chinese,FlashPix:Words,652,,Removed from original
+(A2u Non-Cloud) Chinese,ICC-header:CMMFlags,,"Not Embedded, Independent",Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ColorSpaceData,,GRAY,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ConnectionSpaceIlluminant,,0.9642 1 0.82491,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:DeviceAttributes,,"Reflective, Glossy, Positive, Color",Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:DeviceManufacturer,,none,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:DeviceModel,,,Modified
+(A2u Non-Cloud) Chinese,ICC-header:PrimaryPlatform,,Apple Computer Inc.,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileCMMType,,Adobe Systems Inc.,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileClass,,Output Device Profile,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileConnectionSpace,,XYZ ,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileCreator,,Adobe Systems Inc.,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileDateTime,,1999:06:03 00:00:00,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileFileSignature,,acsp,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileID,,0,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:ProfileVersion,,2.1.0,Added in converted
+(A2u Non-Cloud) Chinese,ICC-header:RenderingIntent,,Perceptual,Added in converted
+(A2u Non-Cloud) Chinese,ICC_Profile:GrayTRC,,"(Binary data 524 bytes, use -b option to extract)",Added in converted
+(A2u Non-Cloud) Chinese,ICC_Profile:MediaBlackPoint,,0 0 0,Added in converted
+(A2u Non-Cloud) Chinese,ICC_Profile:MediaWhitePoint,,0.9642 1 0.82491,Added in converted
+(A2u Non-Cloud) Chinese,ICC_Profile:ProfileCopyright,,Copyright 1999 Adobe Systems Incorporated,Added in converted
+(A2u Non-Cloud) Chinese,ICC_Profile:ProfileDescription,,Dot Gain 20%,Added in converted
+(A2u Non-Cloud) Chinese,MS-DOC:Characters,3723,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:CreateDate,2015:03:28 12:53:00,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:LastPrinted,2015:04:10 12:03:00,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:Lines,31,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:ModifyDate,2015:04:22 04:21:45,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:Pages,6,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:Paragraphs,8,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:RevisionNumber,126,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:TotalEditTime,3.5 hours,,Removed from original
+(A2u Non-Cloud) Chinese,MS-DOC:Words,652,,Removed from original
+(A2u Non-Cloud) Chinese,PDF:Author,,Wang,Added in converted
+(A2u Non-Cloud) Chinese,PDF:CreateDate,,2026:02:26 16:13:26-05:00,Added in converted
+(A2u Non-Cloud) Chinese,PDF:Creator,,Acrobat PDFMaker 25 for Word,Added in converted
+(A2u Non-Cloud) Chinese,PDF:Linearized,,Yes,Added in converted
+(A2u Non-Cloud) Chinese,PDF:ModifyDate,,2026:02:26 16:13:38-05:00,Added in converted
+(A2u Non-Cloud) Chinese,PDF:PDFVersion,,1.6,Added in converted
+(A2u Non-Cloud) Chinese,PDF:PageCount,,6,Added in converted
+(A2u Non-Cloud) Chinese,PDF:PageLayout,,OneColumn,Added in converted
+(A2u Non-Cloud) Chinese,PDF:Producer,,Adobe PDF Library 25.1.231,Added in converted
+(A2u Non-Cloud) Chinese,PDF:Subject,,,Modified
+(A2u Non-Cloud) Chinese,PDF:TaggedPDF,,Yes,Added in converted
+(A2u Non-Cloud) Chinese,PDF:Title,,,Modified
+(A2u Non-Cloud) Chinese,System:Directory,C:/Users/lstuch1/Desktop/S3 Originals,C:/Users/lstuch1/Desktop/S3 PDFs,Modified
+(A2u Non-Cloud) Chinese,System:FileAccessDate,2026:02:26 16:24:45-05:00,2026:02:26 16:21:06-05:00,Modified
+(A2u Non-Cloud) Chinese,System:FileCreateDate,2026:02:26 11:42:50-05:00,2026:02:26 16:13:36-05:00,Modified
+(A2u Non-Cloud) Chinese,System:FileModifyDate,2015:04:22 00:21:46-04:00,2026:02:26 16:13:38-05:00,Modified
+(A2u Non-Cloud) Chinese,System:FileName,(A2u Non-Cloud) Chinese.doc,(A2u Non-Cloud) Chinese.pdf,Modified
+(A2u Non-Cloud) Chinese,System:FilePermissions,-rw-rw-rw-,-rw-rw-rw-,Unchanged
+(A2u Non-Cloud) Chinese,System:FileSize,69 kB,825 kB,Modified
+(A2u Non-Cloud) Chinese,XMP-dc:Creator,,Wang,Added in converted
+(A2u Non-Cloud) Chinese,XMP-dc:Description,,,Modified
+(A2u Non-Cloud) Chinese,XMP-dc:Format,,application/pdf,Added in converted
+(A2u Non-Cloud) Chinese,XMP-dc:Title,,,Modified
+(A2u Non-Cloud) Chinese,XMP-pdf:Keywords,,,Modified
+(A2u Non-Cloud) Chinese,XMP-pdf:Producer,,Adobe PDF Library 25.1.231,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasNamespaceURI,,http://ns.adobe.com/xap/1.0/mm/,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasPrefix,,xmpMM,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasPropertyCategory,,internal,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasPropertyDescription,,UUID based identifier for specific incarnation of a document,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasPropertyName,,InstanceID,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasPropertyValueType,,URI,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaExtension:SchemasSchema,,XMP Media Management Schema,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaid:Conformance,,U,Added in converted
+(A2u Non-Cloud) Chinese,XMP-pdfaid:Part,,2,Added in converted
+(A2u Non-Cloud) Chinese,XMP-x:XMPToolkit,,"Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ",Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmp:CreateDate,,2026:02:26 16:13:26-05:00,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmp:CreatorTool,,Acrobat PDFMaker 25 for Word,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmp:MetadataDate,,2026:02:26 16:13:38-05:00,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmp:ModifyDate,,2026:02:26 16:13:38-05:00,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:DocumentID,,uuid:69c84240-33c2-49e1-84dc-ccc410379e50,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:HistoryAction,,converted,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:HistoryInstanceID,,uuid:e2182495-d2d6-4d64-bcf2-409ddc5a17a1,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:HistoryParameters,,converted to PDF/A-2u,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:HistorySoftwareAgent,,Preflight,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:HistoryWhen,,2026:02:26 16:13:38-05:00,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:InstanceID,,uuid:069cff9b-e446-49cf-ae38-5d29b63f475e,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:RenditionClass,,default,Added in converted
+(A2u Non-Cloud) Chinese,XMP-xmpMM:VersionID,,1,Added in converted
+(A2u Non-Cloud) Chinese,ï»¿SourceFile,C:/Users/lstuch1/Desktop/S3 Originals/(A2u Non-Cloud) Chinese.doc,C:/Users/lstuch1/Desktop/S3 PDFs/(A2u Non-Cloud) Chinese.pdf,Modified

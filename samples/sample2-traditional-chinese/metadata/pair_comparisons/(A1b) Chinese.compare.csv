@@ -1,0 +1,113 @@
+BaseName,Tag,Original_Value,Converted_Value,Change_Status
+(A1b) Chinese,ExifTool:ExifToolVersion,13.4,13.4,Unchanged
+(A1b) Chinese,File:FileType,DOC,PDF,Modified
+(A1b) Chinese,File:FileTypeExtension,doc,pdf,Modified
+(A1b) Chinese,File:MIMEType,application/msword,application/pdf,Modified
+(A1b) Chinese,FlashPix:AppVersion,12.0,,Removed from original
+(A1b) Chinese,FlashPix:Author,Wang,,Removed from original
+(A1b) Chinese,FlashPix:CharCountWithSpaces,4367,,Removed from original
+(A1b) Chinese,FlashPix:Characters,3723,,Removed from original
+(A1b) Chinese,FlashPix:CodePage,Windows Traditional Chinese (Taiwan),,Removed from original
+(A1b) Chinese,FlashPix:CompObjUserType,Microsoft Office Word 97-2003 Document,,Removed from original
+(A1b) Chinese,FlashPix:CompObjUserTypeLen,39,,Removed from original
+(A1b) Chinese,FlashPix:Company,,,Modified
+(A1b) Chinese,FlashPix:CreateDate,2015:03:28 16:53:00,,Removed from original
+(A1b) Chinese,FlashPix:DocFlags,"1Table, ExtChar, Far east",,Removed from original
+(A1b) Chinese,FlashPix:HeadingPairs,"Title, 1",,Removed from original
+(A1b) Chinese,FlashPix:HyperlinksChanged,No,,Removed from original
+(A1b) Chinese,FlashPix:Identification,Word 8.0,,Removed from original
+(A1b) Chinese,FlashPix:Keywords,,,Modified
+(A1b) Chinese,FlashPix:LanguageCode,English (US),,Removed from original
+(A1b) Chinese,FlashPix:LastModifiedBy,Wang,,Removed from original
+(A1b) Chinese,FlashPix:LastPrinted,2015:04:10 16:03:00,,Removed from original
+(A1b) Chinese,FlashPix:Lines,31,,Removed from original
+(A1b) Chinese,FlashPix:LinksUpToDate,No,,Removed from original
+(A1b) Chinese,FlashPix:ModifyDate,2015:04:22 04:21:00,,Removed from original
+(A1b) Chinese,FlashPix:Pages,6,,Removed from original
+(A1b) Chinese,FlashPix:Paragraphs,8,,Removed from original
+(A1b) Chinese,FlashPix:RevisionNumber,126,,Removed from original
+(A1b) Chinese,FlashPix:ScaleCrop,No,,Removed from original
+(A1b) Chinese,FlashPix:Security,,,Modified
+(A1b) Chinese,FlashPix:SharedDoc,No,,Removed from original
+(A1b) Chinese,FlashPix:Software,Microsoft Office Word,,Removed from original
+(A1b) Chinese,FlashPix:Subject,,,Modified
+(A1b) Chinese,FlashPix:System,Windows,,Removed from original
+(A1b) Chinese,FlashPix:Template,Normal,,Removed from original
+(A1b) Chinese,FlashPix:Title,,,Modified
+(A1b) Chinese,FlashPix:TitleOfParts,,,Modified
+(A1b) Chinese,FlashPix:TotalEditTime,3.5 hours,,Removed from original
+(A1b) Chinese,FlashPix:Word97,No,,Removed from original
+(A1b) Chinese,FlashPix:Words,652,,Removed from original
+(A1b) Chinese,ICC-header:CMMFlags,,"Not Embedded, Independent",Added in converted
+(A1b) Chinese,ICC-header:ColorSpaceData,,GRAY,Added in converted
+(A1b) Chinese,ICC-header:ConnectionSpaceIlluminant,,0.9642 1 0.82491,Added in converted
+(A1b) Chinese,ICC-header:DeviceAttributes,,"Reflective, Glossy, Positive, Color",Added in converted
+(A1b) Chinese,ICC-header:DeviceManufacturer,,none,Added in converted
+(A1b) Chinese,ICC-header:DeviceModel,,,Modified
+(A1b) Chinese,ICC-header:PrimaryPlatform,,Apple Computer Inc.,Added in converted
+(A1b) Chinese,ICC-header:ProfileCMMType,,Adobe Systems Inc.,Added in converted
+(A1b) Chinese,ICC-header:ProfileClass,,Output Device Profile,Added in converted
+(A1b) Chinese,ICC-header:ProfileConnectionSpace,,XYZ ,Added in converted
+(A1b) Chinese,ICC-header:ProfileCreator,,Adobe Systems Inc.,Added in converted
+(A1b) Chinese,ICC-header:ProfileDateTime,,1999:06:03 00:00:00,Added in converted
+(A1b) Chinese,ICC-header:ProfileFileSignature,,acsp,Added in converted
+(A1b) Chinese,ICC-header:ProfileID,,0,Added in converted
+(A1b) Chinese,ICC-header:ProfileVersion,,2.1.0,Added in converted
+(A1b) Chinese,ICC-header:RenderingIntent,,Perceptual,Added in converted
+(A1b) Chinese,ICC_Profile:GrayTRC,,"(Binary data 524 bytes, use -b option to extract)",Added in converted
+(A1b) Chinese,ICC_Profile:MediaBlackPoint,,0 0 0,Added in converted
+(A1b) Chinese,ICC_Profile:MediaWhitePoint,,0.9642 1 0.82491,Added in converted
+(A1b) Chinese,ICC_Profile:ProfileCopyright,,Copyright 1999 Adobe Systems Incorporated,Added in converted
+(A1b) Chinese,ICC_Profile:ProfileDescription,,Dot Gain 20%,Added in converted
+(A1b) Chinese,MS-DOC:Characters,3723,,Removed from original
+(A1b) Chinese,MS-DOC:CreateDate,2015:03:28 12:53:00,,Removed from original
+(A1b) Chinese,MS-DOC:LastPrinted,2015:04:10 12:03:00,,Removed from original
+(A1b) Chinese,MS-DOC:Lines,31,,Removed from original
+(A1b) Chinese,MS-DOC:ModifyDate,2015:04:22 04:21:45,,Removed from original
+(A1b) Chinese,MS-DOC:Pages,6,,Removed from original
+(A1b) Chinese,MS-DOC:Paragraphs,8,,Removed from original
+(A1b) Chinese,MS-DOC:RevisionNumber,126,,Removed from original
+(A1b) Chinese,MS-DOC:TotalEditTime,3.5 hours,,Removed from original
+(A1b) Chinese,MS-DOC:Words,652,,Removed from original
+(A1b) Chinese,PDF:Author,,Wang,Added in converted
+(A1b) Chinese,PDF:CreateDate,,2026:02:26 16:09:51-05:00,Added in converted
+(A1b) Chinese,PDF:Creator,,Acrobat PDFMaker 25 for Word,Added in converted
+(A1b) Chinese,PDF:Linearized,,Yes,Added in converted
+(A1b) Chinese,PDF:ModifyDate,,2026:02:26 16:11:42-05:00,Added in converted
+(A1b) Chinese,PDF:PDFVersion,,1.4,Added in converted
+(A1b) Chinese,PDF:PageCount,,6,Added in converted
+(A1b) Chinese,PDF:PageLayout,,OneColumn,Added in converted
+(A1b) Chinese,PDF:Producer,,Adobe PDF Library 25.1.231,Added in converted
+(A1b) Chinese,PDF:Subject,,,Modified
+(A1b) Chinese,PDF:TaggedPDF,,Yes,Added in converted
+(A1b) Chinese,PDF:Title,,,Modified
+(A1b) Chinese,System:Directory,C:/Users/lstuch1/Desktop/S3 Originals,C:/Users/lstuch1/Desktop/S3 PDFs,Modified
+(A1b) Chinese,System:FileAccessDate,2026:02:26 16:24:46-05:00,2026:02:26 16:12:07-05:00,Modified
+(A1b) Chinese,System:FileCreateDate,2026:02:26 16:05:19-05:00,2026:02:26 16:11:42-05:00,Modified
+(A1b) Chinese,System:FileModifyDate,2015:04:22 00:21:46-04:00,2026:02:26 16:11:42-05:00,Modified
+(A1b) Chinese,System:FileName,(A1b) Chinese.doc,(A1b) Chinese.pdf,Modified
+(A1b) Chinese,System:FilePermissions,-rw-rw-rw-,-rw-rw-rw-,Unchanged
+(A1b) Chinese,System:FileSize,69 kB,1200 kB,Modified
+(A1b) Chinese,XMP-dc:Creator,,Wang,Added in converted
+(A1b) Chinese,XMP-dc:Description,,,Modified
+(A1b) Chinese,XMP-dc:Format,,application/pdf,Added in converted
+(A1b) Chinese,XMP-dc:Title,,,Modified
+(A1b) Chinese,XMP-pdf:Keywords,,,Modified
+(A1b) Chinese,XMP-pdf:Producer,,Adobe PDF Library 25.1.231,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasNamespaceURI,,http://ns.adobe.com/xap/1.0/mm/,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasPrefix,,xmpMM,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasPropertyCategory,,internal,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasPropertyDescription,,UUID based identifier for specific incarnation of a document,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasPropertyName,,InstanceID,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasPropertyValueType,,URI,Added in converted
+(A1b) Chinese,XMP-pdfaExtension:SchemasSchema,,XMP Media Management Schema,Added in converted
+(A1b) Chinese,XMP-pdfaid:Conformance,,B,Added in converted
+(A1b) Chinese,XMP-pdfaid:Part,,1,Added in converted
+(A1b) Chinese,XMP-x:XMPToolkit,,"Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ",Added in converted
+(A1b) Chinese,XMP-xmp:CreateDate,,2026:02:26 16:09:51-05:00,Added in converted
+(A1b) Chinese,XMP-xmp:CreatorTool,,Acrobat PDFMaker 25 for Word,Added in converted
+(A1b) Chinese,XMP-xmp:MetadataDate,,2026:02:26 16:11:42-05:00,Added in converted
+(A1b) Chinese,XMP-xmp:ModifyDate,,2026:02:26 16:11:42-05:00,Added in converted
+(A1b) Chinese,XMP-xmpMM:DocumentID,,uuid:ef3b8517-97ba-45aa-95a9-c9cf2b5492a5,Added in converted
+(A1b) Chinese,XMP-xmpMM:InstanceID,,uuid:4ef722bb-21f8-4345-8022-f005a686c1ed,Added in converted
+(A1b) Chinese,ï»¿SourceFile,C:/Users/lstuch1/Desktop/S3 Originals/(A1b) Chinese.doc,C:/Users/lstuch1/Desktop/S3 PDFs/(A1b) Chinese.pdf,Modified

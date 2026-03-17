@@ -1,0 +1,103 @@
+BaseName,Tag,Original_Value,Converted_Value,Change_Status
+(A1b) lorem ipsum,ExifTool:ExifToolVersion,13.4,13.4,Unchanged
+(A1b) lorem ipsum,File:FileType,DOCX,PDF,Modified
+(A1b) lorem ipsum,File:FileTypeExtension,docx,pdf,Modified
+(A1b) lorem ipsum,File:MIMEType,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf,Modified
+(A1b) lorem ipsum,ICC-header:CMMFlags,,"Not Embedded, Independent",Added in converted
+(A1b) lorem ipsum,ICC-header:ColorSpaceData,,GRAY,Added in converted
+(A1b) lorem ipsum,ICC-header:ConnectionSpaceIlluminant,,0.9642 1 0.82491,Added in converted
+(A1b) lorem ipsum,ICC-header:DeviceAttributes,,"Reflective, Glossy, Positive, Color",Added in converted
+(A1b) lorem ipsum,ICC-header:DeviceManufacturer,,none,Added in converted
+(A1b) lorem ipsum,ICC-header:DeviceModel,,,Modified
+(A1b) lorem ipsum,ICC-header:PrimaryPlatform,,Apple Computer Inc.,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileCMMType,,Adobe Systems Inc.,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileClass,,Output Device Profile,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileConnectionSpace,,XYZ ,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileCreator,,Adobe Systems Inc.,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileDateTime,,1999:06:03 00:00:00,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileFileSignature,,acsp,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileID,,0,Added in converted
+(A1b) lorem ipsum,ICC-header:ProfileVersion,,2.1.0,Added in converted
+(A1b) lorem ipsum,ICC-header:RenderingIntent,,Perceptual,Added in converted
+(A1b) lorem ipsum,ICC_Profile:GrayTRC,,"(Binary data 524 bytes, use -b option to extract)",Added in converted
+(A1b) lorem ipsum,ICC_Profile:MediaBlackPoint,,0 0 0,Added in converted
+(A1b) lorem ipsum,ICC_Profile:MediaWhitePoint,,0.9642 1 0.82491,Added in converted
+(A1b) lorem ipsum,ICC_Profile:ProfileCopyright,,Copyright 1999 Adobe Systems Incorporated,Added in converted
+(A1b) lorem ipsum,ICC_Profile:ProfileDescription,,Dot Gain 20%,Added in converted
+(A1b) lorem ipsum,PDF:Author,,Luciana Qu,Added in converted
+(A1b) lorem ipsum,PDF:CreateDate,,2026:02:26 14:37:25-05:00,Added in converted
+(A1b) lorem ipsum,PDF:Creator,,Acrobat PDFMaker 25 for Word,Added in converted
+(A1b) lorem ipsum,PDF:Language,,EN-US,Added in converted
+(A1b) lorem ipsum,PDF:Linearized,,Yes,Added in converted
+(A1b) lorem ipsum,PDF:ModifyDate,,2026:02:26 14:38:09-05:00,Added in converted
+(A1b) lorem ipsum,PDF:PDFVersion,,1.4,Added in converted
+(A1b) lorem ipsum,PDF:PageCount,,6,Added in converted
+(A1b) lorem ipsum,PDF:PageLayout,,OneColumn,Added in converted
+(A1b) lorem ipsum,PDF:Producer,,Adobe PDF Library 25.1.231,Added in converted
+(A1b) lorem ipsum,PDF:Subject,,,Modified
+(A1b) lorem ipsum,PDF:TaggedPDF,,Yes,Added in converted
+(A1b) lorem ipsum,PDF:Title,,,Modified
+(A1b) lorem ipsum,System:Directory,C:/Users/lstuch1/Desktop/LI Originals,C:/Users/lstuch1/Desktop/LI PDFs,Modified
+(A1b) lorem ipsum,System:FileAccessDate,2026:02:26 15:59:38-05:00,2026:02:26 15:41:43-05:00,Modified
+(A1b) lorem ipsum,System:FileCreateDate,2026:02:26 14:45:23-05:00,2026:02:26 14:38:09-05:00,Modified
+(A1b) lorem ipsum,System:FileModifyDate,2026:02:26 10:10:40-05:00,2026:02:26 14:38:09-05:00,Modified
+(A1b) lorem ipsum,System:FileName,(A1b) lorem ipsum.docx,(A1b) lorem ipsum.pdf,Modified
+(A1b) lorem ipsum,System:FilePermissions,-rw-rw-rw-,-rw-rw-rw-,Unchanged
+(A1b) lorem ipsum,System:FileSize,638 kB,3.0 MB,Modified
+(A1b) lorem ipsum,System:ZoneIdentifier,Exists,,Removed from original
+(A1b) lorem ipsum,XML:AppVersion,16.0,,Removed from original
+(A1b) lorem ipsum,XML:Application,Microsoft Office Word,,Removed from original
+(A1b) lorem ipsum,XML:Characters,6503,,Removed from original
+(A1b) lorem ipsum,XML:CharactersWithSpaces,7628,,Removed from original
+(A1b) lorem ipsum,XML:Company,,,Modified
+(A1b) lorem ipsum,XML:CreateDate,2026:02:24 19:40:00Z,,Removed from original
+(A1b) lorem ipsum,XML:DocSecurity,,,Modified
+(A1b) lorem ipsum,XML:HeadingPairs,"Title, 1",,Removed from original
+(A1b) lorem ipsum,XML:HyperlinksChanged,No,,Removed from original
+(A1b) lorem ipsum,XML:Keywords,,,Modified
+(A1b) lorem ipsum,XML:LastModifiedBy,Luciana Qu,,Removed from original
+(A1b) lorem ipsum,XML:LastPrinted,2026:02:25 14:04:00Z,,Removed from original
+(A1b) lorem ipsum,XML:Lines,54,,Removed from original
+(A1b) lorem ipsum,XML:LinksUpToDate,No,,Removed from original
+(A1b) lorem ipsum,XML:ModifyDate,2026:02:25 14:06:00Z,,Removed from original
+(A1b) lorem ipsum,XML:Pages,6,,Removed from original
+(A1b) lorem ipsum,XML:Paragraphs,15,,Removed from original
+(A1b) lorem ipsum,XML:RevisionNumber,56,,Removed from original
+(A1b) lorem ipsum,XML:ScaleCrop,No,,Removed from original
+(A1b) lorem ipsum,XML:SharedDoc,No,,Removed from original
+(A1b) lorem ipsum,XML:Template,Normal.dotm,,Removed from original
+(A1b) lorem ipsum,XML:TitlesOfParts,,,Modified
+(A1b) lorem ipsum,XML:TotalEditTime,1.1 hours,,Removed from original
+(A1b) lorem ipsum,XML:Words,1140,,Removed from original
+(A1b) lorem ipsum,XMP-dc:Creator,Luciana Qu,Luciana Qu,Unchanged
+(A1b) lorem ipsum,XMP-dc:Description,,,Unchanged
+(A1b) lorem ipsum,XMP-dc:Format,,application/pdf,Added in converted
+(A1b) lorem ipsum,XMP-dc:Subject,,,Modified
+(A1b) lorem ipsum,XMP-dc:Title,,,Unchanged
+(A1b) lorem ipsum,XMP-pdf:Keywords,,,Modified
+(A1b) lorem ipsum,XMP-pdf:Producer,,Adobe PDF Library 25.1.231,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasNamespaceURI,,http://ns.adobe.com/xap/1.0/mm/,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasPrefix,,xmpMM,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasPropertyCategory,,internal,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasPropertyDescription,,UUID based identifier for specific incarnation of a document,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasPropertyName,,InstanceID,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasPropertyValueType,,URI,Added in converted
+(A1b) lorem ipsum,XMP-pdfaExtension:SchemasSchema,,XMP Media Management Schema,Added in converted
+(A1b) lorem ipsum,XMP-pdfaid:Conformance,,B,Added in converted
+(A1b) lorem ipsum,XMP-pdfaid:Part,,1,Added in converted
+(A1b) lorem ipsum,XMP-x:XMPToolkit,,"Adobe XMP Core 9.1-c001 79.675d0f7, 2023/06/11-19:21:16        ",Added in converted
+(A1b) lorem ipsum,XMP-xmp:CreateDate,,2026:02:26 14:37:25-05:00,Added in converted
+(A1b) lorem ipsum,XMP-xmp:CreatorTool,,Acrobat PDFMaker 25 for Word,Added in converted
+(A1b) lorem ipsum,XMP-xmp:MetadataDate,,2026:02:26 14:38:09-05:00,Added in converted
+(A1b) lorem ipsum,XMP-xmp:ModifyDate,,2026:02:26 14:38:09-05:00,Added in converted
+(A1b) lorem ipsum,XMP-xmpMM:DocumentID,,uuid:90a31cee-40b4-41bf-81db-d339e0ef66e2,Added in converted
+(A1b) lorem ipsum,XMP-xmpMM:InstanceID,,uuid:adc67374-78e4-4f73-8ef4-69724fac42af,Added in converted
+(A1b) lorem ipsum,ZIP:ZipBitFlag,0x0006,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipCRC,0x9d13da10,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipCompressedSize,540,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipCompression,Deflated,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipFileName,[Content_Types].xml,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipModifyDate,1980:01:01 00:00:00,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipRequiredVersion,20,,Removed from original
+(A1b) lorem ipsum,ZIP:ZipUncompressedSize,3256,,Removed from original
+(A1b) lorem ipsum,ï»¿SourceFile,C:/Users/lstuch1/Desktop/LI Originals/(A1b) lorem ipsum.docx,C:/Users/lstuch1/Desktop/LI PDFs/(A1b) lorem ipsum.pdf,Modified
