@@ -53,8 +53,8 @@ Folder_01/
 
 ### 5.1 - Step 1: Convert DOC/DOCX to PDF/A-2u (Adobe Guided Actions)
 
-Follow the detailed Adobe conversion workflow:
-- `workflows/docx-to-pdfa2u.md`
+Follow the detailed Adobe conversion workflow to create PDF/A-2u documents:
+- [workflows/docx-to-pdfa2u.md](https://github.com/lquuu/pdfa-conversion-workflows/blob/main/workflows/docx-to-pdfa2u.md)
 
 Expected outcome:
 - PDF/A-2u files are created in the designated output folder (`pdfa_2u/`).
@@ -66,7 +66,7 @@ Optional artifact:
 ### 5.2 - Step 2: Extract and Compare Metadata (PowerShell + Python)
 
 Follow the detailed method documentation:
-- `../metadata/metadata-comparison-method.md`
+- [/metadata/metadata-comparison-method.md](https://github.com/lquuu/pdfa-conversion-workflows/blob/main/workflows/metadata-comparison-method.md)
 
 At a high level, this stage:
 - Extracts metadata from each original DOC/DOCX as a single-row CSV
@@ -79,7 +79,7 @@ At a high level, this stage:
 
 Run the PowerShell wrapper script to perform extraction and comparison.
 
-Example (paths must not be quoted):
+Example (paths must *not* be quoted):
 
 ```
 & C:\path\to\run_pairs.ps1 `

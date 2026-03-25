@@ -48,7 +48,7 @@ Depending on your goals, you may wish to begin with one of the following workflo
 - **Baseline Conversion Behavior**: Overview of standard conversion behavior and baseline observations
   - `workflows/docx-to-pdfa.md`
 
-- **PDF/A-2u Conversion Using Adobe Guided Actions**: Step-by-step workflow for producing PDF/A-2u using Adobe Acrobat
+- [**PDF/A-2u Conversion Using Adobe Guided Actions**](https://github.com/lquuu/pdfa-conversion-workflows/blob/main/workflows/docx-to-pdfa2u.md): Step-by-step workflow for producing PDF/A-2u using Adobe Acrobat
   - `workflows/docx-to-pdfa2u-custom-action.md`
 
 - **End-to-End Workflow with Metadata Extraction & Comparison**: Complete workflow including conversion, metadata extraction, and comparison
@@ -57,7 +57,7 @@ Depending on your goals, you may wish to begin with one of the following workflo
 - **Accessibility Evaluation**: Instructions for generating and interpreting accessibility reports in Adobe Acrobat
   - `workflows/accessibility-checker.md`
 
-- **Detailed Metadata Extraction & Comparison Method**: Detailed documentation of how metadata is extracted and compared across files
+- [**Detailed Metadata Extraction & Comparison Method**](https://github.com/lquuu/pdfa-conversion-workflows/blob/main/workflows/metadata-comparison-method.md): Detailed documentation of how metadata is extracted and compared across files
   - `metadata/metadata-comparison-method.md`
 
 
@@ -68,27 +68,13 @@ Depending on your goals, you may wish to begin with one of the following workflo
 
 This repository is organized to separate documentation, empirical evidence, and tooling:
 
-/workflows
-    Step-by-step guides for conversion workflows and accessibility evaluation
-
-/samples
-    Representative test files used to evaluate conversion quality
-    Includes real archival documents and a comprehensive stress-test file
-
-/reports
-    Accessibility reports and batch conversion logs
-
-/metadata
-    Methods, scripts, and results for metadata extraction and comparison
-
-/docs
-    Decision logs, environment setup instructions, and research notes
-
-/screenshots
-    Images used in documentation and workflow guides
-
-/README.md
-    Project overview and navigation guide
+- `/workflows`: Step-by-step guides for conversion workflows and accessibility evaluation
+- `/samples`: Representative test files used to evaluate conversion quality. Includes real archival documents and a comprehensive stress-test file
+- `/reports`: Accessibility reports and batch conversion logs
+- `/metadata`: Methods, scripts, and results for metadata extraction and comparison
+- `/docs`: Decision logs, environment setup instructions, and research notes
+- `/screenshots`: Images used in documentation and workflow guides
+- `/README.md`: Project overview and navigation guide
 
 
 ---
